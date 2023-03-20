@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'UnitHexColor_Example' do
+  pod 'UnitHexColor', :path => '../'
+
+  target 'UnitHexColor_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
