@@ -1,0 +1,16 @@
+PODS:
+  - UnitHexColor (0.1.0)
+
+DEPENDENCIES:
+  - UnitHexColor (from `../`)
+
+EXTERNAL SOURCES:
+  UnitHexColor:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UnitHexColor: ce174da5b946f3b9884e24c80df65b9e64b41110
+
+PODFILE CHECKSUM: 68c200e9d87f37eb82741b12bb8e5894ebbaf607
+
+COCOAPODS: 1.12.0

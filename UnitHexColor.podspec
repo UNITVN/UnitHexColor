@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/QuangTran/UnitHexColor'
+  s.homepage         = 'https://github.com/UNITVN/UnitHexColor'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'QuangTran' => 'quangtm@email.com' }
-  s.source           = { :git => 'https://github.com/QuangTran/UnitHexColor.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@github.com:UNITVN/UnitHexColor.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
